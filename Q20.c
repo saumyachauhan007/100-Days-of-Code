@@ -52,5 +52,6 @@ int main()
         printf("Invalid input\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

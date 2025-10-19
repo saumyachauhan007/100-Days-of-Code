@@ -30,5 +30,6 @@ int main()
 
     printf("Area=%.2f, Circumference=%.2f\n", area, circumference); // Display results with 2 decimal places
 
-    return 0;
+    getch();
+return 0;
 }

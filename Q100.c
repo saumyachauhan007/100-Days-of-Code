@@ -33,5 +33,6 @@ int main()
     }
 
     printf("\n");
-    return 0;
+    getch();
+return 0;
 }

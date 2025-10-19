@@ -40,7 +40,8 @@ int main()
     if (n != m)
     {
         printf("False\n");
-        return 0;
+        getch();
+return 0;
     }
 
     // Check symmetry
@@ -64,5 +65,6 @@ int main()
     else
         printf("False\n");
 
-    return 0;
+    getch();
+return 0;
 }

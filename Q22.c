@@ -45,5 +45,6 @@ int main()
         printf("No Profit No Loss\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

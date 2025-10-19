@@ -29,5 +29,6 @@ int main()
 
     printf("Area=%d, Perimeter=%d\n", area, perimeter); // Display results
 
-    return 0;
+    getch();
+return 0;
 }

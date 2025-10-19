@@ -54,5 +54,6 @@ int main()
         printf("Roots are complex: %.2f + %.2fi, %.2f - %.2fi\n", realPart, imagPart, realPart, imagPart);
     }
 
-    return 0;
+    getch();
+return 0;
 }

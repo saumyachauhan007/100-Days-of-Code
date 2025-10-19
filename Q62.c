@@ -41,5 +41,6 @@ int main()
         printf("%d ", arr[i]);
     }
 
-    return 0;
+    getch();
+return 0;
 }

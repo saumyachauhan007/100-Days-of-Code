@@ -28,12 +28,14 @@ int main()
                 if (str[i] == str[j])
                 { // found repeat
                     printf("%c\n", str[i]);
-                    return 0;
+                    getch();
+return 0;
                 }
             }
         }
     }
 
     printf("No repeating lowercase letter\n");
-    return 0;
+    getch();
+return 0;
 }

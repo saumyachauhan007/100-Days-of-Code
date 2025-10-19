@@ -52,5 +52,6 @@ int main()
         printf("Special character\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

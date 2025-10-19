@@ -67,5 +67,6 @@ int main()
         printf("Invalid month number\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

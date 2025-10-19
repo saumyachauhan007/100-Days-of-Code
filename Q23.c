@@ -58,5 +58,6 @@ int main()
         printf("Membership Cancelled\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

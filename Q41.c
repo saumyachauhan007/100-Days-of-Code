@@ -29,7 +29,8 @@ int main()
     if (num < 10)
     {
         printf("%d\n", num);
-        return 0;
+        getch();
+return 0;
     }
 
     last = num % 10;              // last digit
@@ -45,5 +46,6 @@ int main()
 
     printf("%d\n", swapped);
 
-    return 0;
+    getch();
+return 0;
 }

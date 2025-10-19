@@ -46,5 +46,6 @@ int main()
 
     printf("Positive=%d, Negative=%d, Zero=%d\n", positive, negative, zero); // Print the result
 
-    return 0;
+    getch();
+return 0;
 }

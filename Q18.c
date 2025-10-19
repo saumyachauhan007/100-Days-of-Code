@@ -65,5 +65,6 @@ int main()
         printf("Invalid percentage\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

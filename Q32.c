@@ -44,5 +44,6 @@ int main()
         printf("Not palindrome\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

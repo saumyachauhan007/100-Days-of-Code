@@ -49,5 +49,6 @@ int main()
     // Print the result
     printf("Even=%d, Odd=%d\n", evenCount, oddCount);
 
-    return 0;
+    getch();
+return 0;
 }

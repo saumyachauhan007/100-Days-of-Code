@@ -54,5 +54,6 @@ int main()
     // Display the bill
     printf("Bill: ₹%d\n", bill);
 
-    return 0;
+    getch();
+return 0;
 }

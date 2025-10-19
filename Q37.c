@@ -41,5 +41,6 @@ int main()
 
     printf("%d\n", lcmValue); // Display result
 
-    return 0;
+    getch();
+return 0;
 }

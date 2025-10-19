@@ -34,5 +34,6 @@ int main()
     result[j] = '\0'; // Null-terminate the string
     printf("String without vowels: %s\n", result);
 
-    return 0;
+    getch();
+return 0;
 }

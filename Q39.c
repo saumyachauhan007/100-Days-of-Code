@@ -38,5 +38,6 @@ int main()
 
     printf("%d\n", product); // If no odd digit was found, product should remain 1
 
-    return 0;
+    getch();
+return 0;
 }

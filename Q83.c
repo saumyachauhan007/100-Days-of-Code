@@ -37,5 +37,6 @@ int main()
 
     printf("Vowels=%d, Consonants=%d\n", vowels, consonants);
 
-    return 0;
+    getch();
+return 0;
 }

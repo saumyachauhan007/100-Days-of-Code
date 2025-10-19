@@ -31,5 +31,6 @@ int main()
 
     printf("Sum=%d\n", sum); // Display result
 
-    return 0;
+    getch();
+return 0;
 }

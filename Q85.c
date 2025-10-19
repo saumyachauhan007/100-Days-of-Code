@@ -27,5 +27,6 @@ int main()
         printf("%c", str[i]);
     }
 
-    return 0;
+    getch();
+return 0;
 }

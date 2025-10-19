@@ -35,5 +35,6 @@ int main()
         printf("\n"); // move to next line after each row
     }
 
-    return 0;
+    getch();
+return 0;
 }

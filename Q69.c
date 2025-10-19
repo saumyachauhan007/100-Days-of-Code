@@ -49,5 +49,6 @@ int main()
         printf("%d\n", second);
     }
 
-    return 0;
+    getch();
+return 0;
 }

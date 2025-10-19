@@ -30,10 +30,12 @@ int main()
         if (str[i] != str[len - i - 1])
         {
             printf("Not palindrome");
-            return 0; // exit early
+            getch();
+return 0; // exit early
         }
     }
 
     printf("Palindrome");
-    return 0;
+    getch();
+return 0;
 }

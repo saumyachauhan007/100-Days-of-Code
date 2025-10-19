@@ -61,5 +61,6 @@ int main()
         printf("Invalid operator\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

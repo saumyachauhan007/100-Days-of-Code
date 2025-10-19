@@ -46,5 +46,6 @@ int main()
     else
         printf("Not strong number\n");
 
-    return 0;
+    getch();
+return 0;
 }

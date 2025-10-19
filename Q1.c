@@ -14,7 +14,7 @@ Sum = 19
 
 */
 #include <stdio.h>
-
+#include<conio.h>>
 int main()
 {
     int a, b, sum;
@@ -25,6 +25,7 @@ int main()
     sum = a + b; // Calculate sum
 
     printf("Sum = %d\n", sum); // Display result
-
-    return 0;
+    getch();
+    getch();
+return 0;
 }

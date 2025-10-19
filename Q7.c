@@ -30,5 +30,6 @@ int main()
 
     printf("After swap: %d %d\n", a, b); // Display results
 
-    return 0;
+    getch();
+return 0;
 }

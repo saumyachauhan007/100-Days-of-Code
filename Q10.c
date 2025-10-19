@@ -32,5 +32,6 @@ int main()
 
     printf("%d:%d:%d\n", hours, minutes, seconds); // Display result
 
-    return 0;
+    getch();
+return 0;
 }

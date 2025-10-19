@@ -30,5 +30,6 @@ int main()
 
     printf("Sum=%d, Diff=%d, Product=%d, Quotient=%d\n", sum, diff, product, quotient); // Display results
 
-    return 0;
+    getch();
+return 0;
 }

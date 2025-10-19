@@ -51,5 +51,6 @@ int main()
         printf("Not a valid triangle\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

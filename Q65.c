@@ -63,5 +63,6 @@ int main()
     else
         printf("-1\n");
 
-    return 0;
+    getch();
+return 0;
 }

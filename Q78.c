@@ -40,5 +40,6 @@ int main()
 
     printf("%d\n", sum);
 
-    return 0;
+    getch();
+return 0;
 }

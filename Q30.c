@@ -34,5 +34,6 @@ int main()
 
     printf("%d\n", reversed); // Display result
 
-    return 0;
+    getch();
+return 0;
 }

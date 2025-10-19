@@ -34,5 +34,6 @@ int main()
 
     printf("Approximate sum: %.2f\n", sum);
 
-    return 0;
+    getch();
+return 0;
 }

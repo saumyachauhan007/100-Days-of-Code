@@ -45,5 +45,6 @@ int main()
         printf("%d ", rowSum[i]);
     }
 
-    return 0;
+    getch();
+return 0;
 }

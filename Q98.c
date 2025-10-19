@@ -22,5 +22,6 @@ int main()
     // Print initials and full surname
     printf("%c.%c. %s\n", first[0], middle[0], last);
 
-    return 0;
+    getch();
+return 0;
 }

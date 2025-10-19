@@ -39,5 +39,6 @@ int main()
     else
         printf("Not perfect number\n");
 
-    return 0;
+    getch();
+return 0;
 }

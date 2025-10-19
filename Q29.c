@@ -40,5 +40,6 @@ int main()
         printf("%lld\n", factorial); // Display result
     }
 
-    return 0;
+    getch();
+return 0;
 }

@@ -54,11 +54,13 @@ int main()
             if (diag[i] == diag[j])
             {
                 printf("False\n");
-                return 0; // exit immediately if duplicate found
+                getch();
+return 0; // exit immediately if duplicate found
             }
         }
     }
 
     printf("True\n");
-    return 0;
+    getch();
+return 0;
 }

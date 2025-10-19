@@ -33,5 +33,6 @@ int main()
 
     printf("Simple Interest=%f, Compound Interest=%f\n", simpleInterest, compoundInterest); // Display results
 
-    return 0;
+    getch();
+return 0;
 }

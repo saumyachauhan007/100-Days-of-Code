@@ -49,5 +49,6 @@ int main()
 
     printf("Max=%d, Min=%d\n", max, min); // Print the results
 
-    return 0;
+    getch();
+return 0;
 }

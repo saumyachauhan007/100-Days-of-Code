@@ -33,5 +33,6 @@ int main()
 
     printf("%d\n", sum); // Display result
 
-    return 0;
+    getch();
+return 0;
 }

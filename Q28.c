@@ -33,5 +33,6 @@ int main()
 
     printf("%lld\n", product); // Display result
 
-    return 0;
+    getch();
+return 0;
 }

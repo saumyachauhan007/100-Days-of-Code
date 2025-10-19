@@ -30,7 +30,8 @@ int main()
     if (strlen(s1) != strlen(s2))
     {
         printf("Not anagrams\n");
-        return 0;
+        getch();
+return 0;
     }
 
     // Sort first string
@@ -66,5 +67,6 @@ int main()
     else
         printf("Not anagrams\n");
 
-    return 0;
+    getch();
+return 0;
 }

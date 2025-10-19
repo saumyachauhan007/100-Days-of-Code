@@ -25,7 +25,8 @@ int main()
     if (n == 0)
     {
         printf("0\n");
-        return 0;
+        getch();
+return 0;
     }
 
     // Build the binary in reverse
@@ -39,5 +40,6 @@ int main()
     // Print the result
     printf("%d\n", revBinary);
 
-    return 0;
+    getch();
+return 0;
 }

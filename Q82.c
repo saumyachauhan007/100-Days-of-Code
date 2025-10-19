@@ -27,5 +27,6 @@ int main()
         i++;
     }
 
-    return 0;
+    getch();
+return 0;
 }

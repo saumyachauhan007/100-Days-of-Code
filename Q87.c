@@ -31,5 +31,6 @@ int main()
     }
 
     printf("Spaces=%d, Digits=%d, Special=%d", spaces, digits, special);
-    return 0;
+    getch();
+return 0;
 }

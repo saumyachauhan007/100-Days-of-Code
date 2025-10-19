@@ -51,5 +51,6 @@ int main()
     // Display result
     printf("Largest is %d\n", largest);
 
-    return 0;
+    getch();
+return 0;
 }

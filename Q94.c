@@ -41,5 +41,6 @@ int main()
     }
 
     printf("%s", longest);
-    return 0;
+    getch();
+return 0;
 }

@@ -48,7 +48,8 @@ int main()
     if (r1 != r2 || c1 != c2)
     {
         printf("Matrix addition not possible\n");
-        return 0;
+        getch();
+return 0;
     }
 
     int sum[r1][c1];
@@ -72,5 +73,6 @@ int main()
         printf("\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

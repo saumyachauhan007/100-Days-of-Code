@@ -46,7 +46,8 @@ int main()
     if (n1 != m2)
     {
         printf("Matrix multiplication not possible\n");
-        return 0;
+        getch();
+return 0;
     }
 
     int C[m1][n2]; // Resultant matrix
@@ -82,5 +83,6 @@ int main()
         printf("\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }

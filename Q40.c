@@ -37,5 +37,6 @@ int main()
 
     printf("%s\n", binary); // Output result
 
-    return 0;
+    getch();
+return 0;
 }

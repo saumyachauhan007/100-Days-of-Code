@@ -54,5 +54,6 @@ int main()
         printf("Not Armstrong\n");
     }
 
-    return 0;
+    getch();
+return 0;
 }
